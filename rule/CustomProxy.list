@@ -1,0 +1,10 @@
+# NAME: CustomProxy
+# DESCRIPTION: 自定义走代理域名
+[Rule]
+DOMAIN-SUFFIX,rumble.com,PROXY
+DOMAIN-SUFFIX,appsflyer.com,PROXY
+DOMAIN-SUFFIX,app-measurement.com,PROXY
+DOMAIN-SUFFIX,peanutlabs.com,PROXY
+DOMAIN-SUFFIX,prodegemr.com,PROXY
+DOMAIN-SUFFIX,swagbucks.com,PROXY
+DOMAIN-SUFFIX,awstrack.me,PROXY
