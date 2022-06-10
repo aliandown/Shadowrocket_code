@@ -1,0 +1,5 @@
+# NAME: CustomDirect
+# DESCRIPTION: 自定义直连域名
+[Rule]
+DOMAIN-SUFFIX,honeygain.com,DIRECT
+DOMAIN-SUFFIX,hamibot.com,DIRECT
